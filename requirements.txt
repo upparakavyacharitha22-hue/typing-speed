@@ -1,0 +1,13 @@
+# TypeMaster – Typing Speed Test
+# Requirements File
+# -------------------------------------------------------------
+# TypeMaster is built exclusively using Python's Standard Library.
+# No third-party or external packages (such as pygame or PyQt) are needed.
+#
+# Requirements:
+# - Python 3.8 or higher (Python 3.10+ recommended)
+# - Tkinter (bundled with standard official Python installers for Windows/macOS)
+#
+# On Debian/Ubuntu Linux (if Tkinter is not already present):
+#   sudo apt-get install python3-tk
+
